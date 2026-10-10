@@ -1,0 +1,6 @@
+{
+  "name": "VendorHub - Wedding Vendor Marketplace",
+  "description": "Discover, compare, and book top wedding venues, photographers, caterers, florists, and makeup artists all in one place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
